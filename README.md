@@ -1,3 +1,3 @@
 # SydFieldCheckerApp
  
- https://john95206.github.io/SydFieldCheckerApp/
+ https://john95206.github.io/SydFieldCheckerApp/Build/index.html
